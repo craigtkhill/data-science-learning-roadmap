@@ -1,4 +1,4 @@
-### Psychology & Computing Semester 4 - Spring 2021
+### Psychology & Computing Semester 4 - Spring 2022
 
 #### Statistics and Research Methods
 
