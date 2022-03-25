@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+
 # MARCH 2022
+
+=======
+
+### Psychology & Computing Semester 4 - Spring 2021
+
+> > > > > > > 0e7e9f547c894edd20a589718376d14d3b19a3f4
 
 - #### Statistics and Research Methods
 
