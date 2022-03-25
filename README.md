@@ -1,7 +1,7 @@
 # Data Science Learning Roadmap
 
-a roadmap of the steps I have taken and are taking to learn data science
+a roadmap of the steps I am taking to learn data science
 
-## [Here are the steps I have taken so far](data-science-learning.md)
+- ## [Steps So Far](data-science-learning.md)
 
-## [Here are the next steps I plan on taking](data-science-plan.md)
+- ## [Next Steps](data-science-plan.md)

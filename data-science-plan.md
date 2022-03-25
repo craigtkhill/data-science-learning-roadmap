@@ -1,26 +1,24 @@
-### Psychology & Computing Semester 4 - Spring 2021
+# MARCH 2022
 
-#### Statistics and Research Methods
+- #### Statistics and Research Methods
 
-[Research Methods in Psychology II](https://www.ucc.ie/admin/registrar/modules/?mod=AP2114)
+  - [Research Methods in Psychology II](https://www.ucc.ie/admin/registrar/modules/?mod=AP2114)
 
-#### Programming in Python
+- #### Programming in Python
 
-[Intermediate Programming and Problem Solving II](https://www.ucc.ie/admin/registrar/modules/?mod=CS2013)
+  - [Intermediate Programming and Problem Solving II](https://www.ucc.ie/admin/registrar/modules/?mod=CS2013)
 
-#### Pandas
+- #### Pandas
 
-[Python Data Analysis & Visualization Masterclass](https://www.udemy.com/course/python-data-analysis-visualization/)
+  - [Python Data Analysis & Visualization Masterclass](https://www.udemy.com/course/python-data-analysis-visualization/)
 
-- Automate Kindle Notes Script
-- NLP Zettelkasten Project
-- Create Personal website/Blog
+* Automate Kindle Notes Script
+* NLP Zettelkasten Project
+* Create Personal website/Blog
   - Finish web dev courses
     - [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
-    -
     - [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
-    -
-- Data Science
+* Data Science
 
   - Classification with NLP
     - finish NLP course
@@ -52,4 +50,4 @@
 
     - [Ultimate AWS Certified Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
-    - finish git course
+    - Finish git course
